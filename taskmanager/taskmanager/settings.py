@@ -80,8 +80,8 @@ DATABASES = {
     "default": {
         "ENGINE": "mysql.connector.django",
         "NAME": "taskmanager",
-        "USER": "root",
-        "PASSWORD": "password",
+        "USER": "admin",
+        "PASSWORD": "eclipse",
         "HOST": "127.0.0.1",
         "PORT": "3306",
         "OPTIONS": {
